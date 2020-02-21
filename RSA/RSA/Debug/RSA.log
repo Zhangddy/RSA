@@ -1,0 +1,7 @@
+﻿  rsa.cpp
+d:\code\rsa\rsa\rsa\rsa.cpp(27): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+d:\code\rsa\rsa\rsa\rsa.cpp(56): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+d:\code\rsa\rsa\rsa\rsa.cpp(60): warning C4244: “=”: 从“DataType”转换到“char”，可能丢失数据
+d:\code\rsa\rsa\rsa\rsa.cpp(116): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\code\rsa\rsa\rsa\rsa.cpp(155): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  RSA.vcxproj -> D:\Code\RSA\RSA\Debug\RSA.exe
